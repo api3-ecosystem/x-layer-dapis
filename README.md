@@ -9,7 +9,7 @@ This repository contains the proxy contract addresses for the API3 dAPIs availab
 
 ## Usage
 
-The proxy contracts are used to read the latest data feed values. The proxy contracts are deployed on-chain and the addresses are available in this repository for now. The proxy contracts are used to read the latest data feed values.
+The proxy contracts are used to read the latest data feed values. The proxy contracts are deployed on-chain and the addresses are available in this repository for now.
 
 [Check out this guide on how to read a data feed on X Layer](https://docs.api3.org/guides/dapis/read-a-dapi/)
 
