@@ -7,6 +7,12 @@ This repository contains the proxy contract addresses for the API3 dAPIs availab
 ### Proxy Factory
 `0x9EB9798Dc1b602067DFe5A57c3bfc914B965acFD`
 
+## Usage
+
+The proxy contracts are used to read the latest data feed values. The proxy contracts are deployed on-chain and the addresses are available in this repository for now. The proxy contracts are used to read the latest data feed values.
+
+[Check out this guide on how to read a data feed on X Layer](https://docs.api3.org/guides/dapis/read-a-dapi/)
+
 ## X Layer Mainnet
 
 ### Proxy Contract Addresses
@@ -58,9 +64,3 @@ This repository contains the proxy contract addresses for the API3 dAPIs availab
 | UNI/USD | 1% | 0x2d76D9E6707632675a7b6f2C3731e7a2449f6C6c | 0x2DC913BBFB55451dbd10aF61a0064DA687E3397e |
 
 Make sure to use the correct proxy contract address for the data feed you want to read. Also, fund the sponsor wallets with the required amount of gas so it keeps the data feeds updated.
-
-## Usage
-
-The proxy contracts are used to read the latest data feed values. The proxy contracts are deployed on-chain and the addresses are available in this repository for now. The proxy contracts are used to read the latest data feed values.
-
-[Check out this guide on how to read a data feed on X Layer](https://docs.api3.org/guides/dapis/read-a-dapi/)
